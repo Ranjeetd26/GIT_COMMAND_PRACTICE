@@ -1,3 +1,1 @@
 Hello hi this new file in new branch!
-
-diff command test
